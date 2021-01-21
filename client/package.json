@@ -24,7 +24,7 @@
     "react-table": "^7.0.0-rc.9",
     "react-table-v6": "^6.8.6",
     "roughjs": "^3.1.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0"
   },
   "scripts": {
